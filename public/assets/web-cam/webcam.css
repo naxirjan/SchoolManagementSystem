@@ -1,0 +1,16 @@
+@media screen and (orientation:landscape) {
+  
+    #video,#canvas{
+        border-radius: 10px;
+        width: 100%;
+    }   
+}
+
+@media screen and (orientation:portrait) {
+
+    #video,#canvas{
+        border-radius: 10px;
+        width: 170px;
+    }
+    
+} 
