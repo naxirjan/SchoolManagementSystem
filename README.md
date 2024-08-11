@@ -1,5 +1,5 @@
 # School Management System
-This website is developed in PHP framwork Laravel. The objectives of developing this application are:
+This website is developed in PHP framework Laravel. The objectives of developing this application are:
 - To store, access and manage student attendance data for every day. 
 - To make easy to access the attendance information of a particular student.
 - To help in evaluating the attendance eligibility of a student.
